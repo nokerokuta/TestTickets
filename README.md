@@ -24,10 +24,10 @@ Difference between average (13960) and median (13500) prices is (460)
 ```
 java -version
 ```
-2. Cкачать скачать два файла из проекта:
+2. Cкачать два файла из проекта:
 - tickets-full.jar
 - tickets.json
-3. Выполнить команду:
+3. Выполнить команду из папки, где лежат скаченные файлы:
 ```
 java -jar tickets-full.jar
 ```
