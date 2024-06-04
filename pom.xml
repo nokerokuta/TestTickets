@@ -50,7 +50,7 @@
                     </archive>
                     <finalName>tickets-full</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
-                    <outputDirectory>result</outputDirectory>
+                    <outputDirectory>${project.basedir}</outputDirectory>
                 </configuration>
                 <executions>
                     <execution>

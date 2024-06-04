@@ -1,7 +1,6 @@
+package org.nokerakuta.testtask;
+
 import org.junit.jupiter.api.Test;
-import org.nokerakuta.testtask.Ticket;
-import org.nokerakuta.testtask.TicketsResponse;
-import org.nokerakuta.testtask.TicketsService;
 
 import java.time.Duration;
 import java.time.LocalDateTime;
